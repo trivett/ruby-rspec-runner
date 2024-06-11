@@ -1,0 +1,1 @@
+Just basically a bare bones ruby setup for running rspec for interview type questions and such with pry and guard.
