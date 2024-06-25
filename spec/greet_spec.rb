@@ -1,6 +1,6 @@
 require 'rspec'
 require 'pry'
-require_relative '../example/greet'
+require_relative '../lib/greet'
 
 describe 'Greeter' do
   describe '#greet' do
